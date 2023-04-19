@@ -28,11 +28,10 @@ ___
 </div>
 
 # Spécifications
-- le code source et ses versions sont disponibles sur [Github](https://github.com/maxperei/maxperei.info).
+- le code source et ses versions sont disponibles sur [Github](https://github.com/maxperei/maxperei.github.io).
 - la mise en page et le thème sont inspirés par [Hyde](https://github.com/Cecilapp/theme-hyde).
 - le site web est propulsé par [Cecil](https://cecil.app) et [Twig](https://twig.symfony.com/).
-- l'hébergement et le déploiement continu sont pris en charge par [Netlify](https://www.netlify.com).
-- la partie backoffice est basée sur [NetlifyCMS](https://www.netlifycms.org).
+- l'hébergement et le déploiement continu sont pris en charge par [Github Pages](https://github.com/marketplace/actions/deploy-to-github-pages).
 
 # Mentions
 Les billets du [blog](/blog) sont soumis à la license [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr).

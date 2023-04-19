@@ -32,7 +32,7 @@ site:
         enabled: false
       collection:
         id: 'collection'
-        url: 'https://www.maxperei.info'
+        url: 'https://maxperei.github.io'
         name: 'Collection'
         weight: 11
         enabled: false
@@ -68,12 +68,6 @@ site:
   date:
     format: j M Y
     timezone: Europe/Paris
-  netlify:
-    cms:
-      path: admin
-      version: latest
-    identity:
-      version: v1
   output:
     formats:
       netlify_redirects:
@@ -89,10 +83,6 @@ site:
         suffix: '/index'
         extension: 'html'
   virtualpages:
-    admin:
-      layout: admin/index
-      output: html
-      title: 'Content Manager (Netlify CMS)'
     home:
       redirect: /
     index:
