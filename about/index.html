@@ -18,21 +18,7 @@
         <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.9"></script>
         <link rel="stylesheet" href="/css/font-awesome.css">
         <link rel="stylesheet" href="/css/tech-font.css">
-    
-    <!-- Netlify Identity -->
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <script>
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on('init', user => {
-          if (!user) {
-            window.netlifyIdentity.on('login', () => {
-              document.location.href = "/admin/";
-            });
-          }
-        });
-      }
-    </script>
-</head>
+    </head>
 <body>
 <canvas id="canvas"></canvas>
 <div class="sidebar">
@@ -268,11 +254,10 @@
 </div>
 <h1>Spécifications</h1>
 <ul>
-<li>le code source et ses versions sont disponibles sur <a href="https://github.com/maxperei/maxperei.info">Github</a>.</li>
+<li>le code source et ses versions sont disponibles sur <a href="https://github.com/maxperei/maxperei.github.io">Github</a>.</li>
 <li>la mise en page et le thème sont inspirés par <a href="https://github.com/Cecilapp/theme-hyde">Hyde</a>.</li>
 <li>le site web est propulsé par <a href="https://cecil.app">Cecil</a> et <a href="https://twig.symfony.com/">Twig</a>.</li>
-<li>l'hébergement et le déploiement continu sont pris en charge par <a href="https://www.netlify.com">Netlify</a>.</li>
-<li>la partie backoffice est basée sur <a href="https://www.netlifycms.org">NetlifyCMS</a>.</li>
+<li>l'hébergement et le déploiement continu sont pris en charge par <a href="https://github.com/marketplace/actions/deploy-to-github-pages">Github Pages</a>.</li>
 </ul>
 <h1>Mentions</h1>
 <p>Les billets du <a href="/blog">blog</a> sont soumis à la license <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr">Creative Commons BY-SA 4.0</a>.</p>
