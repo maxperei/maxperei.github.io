@@ -3,7 +3,7 @@ title: À propos
 published: true
 ---
 
-Ainsi la navigation se poursuit, la finalité étant qu'à travers le cheminement — entre les différents plis de cet éventail — puisse être dévoilées les lignes directrices, les aspirations et les influences qui m'animent.
+Ainsi la navigation se poursuit, la finalité étant qu'à travers le cheminement — entre les différents plis de cet éventail — puissent être dévoilées les lignes directrices, les aspirations et les influences qui m'animent.
 
 Le but est également de laisser certains traits apparents : notamment le *goût* de la *perfection technique*, le *don de soi*, le *zèle* et la *joie* de mener à bien, étape par étape, un travail *rigoureux* et *méthodique*.
 
